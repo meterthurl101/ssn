@@ -2,9 +2,9 @@
 
 # Generate a valid Social Security Number
 
-function generate(1) {
+function generate() {
   SSN="636915587"
-  valid=0
+  valid=1
 
   for i in {1..9}; do
     DIGIT=$[RANDOM%9+1]
