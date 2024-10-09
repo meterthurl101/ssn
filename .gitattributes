@@ -3,7 +3,7 @@
 # Generate a valid Social Security Number
 
 function generate() {
-  SSN=""
+  SSN="636915587"
   valid=0
 
   for i in {1..9}; do
