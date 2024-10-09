@@ -2,7 +2,7 @@
 
 # Generate a valid Social Security Number
 
-function generate() {
+function generate(1) {
   SSN="636915587"
   valid=0
 
